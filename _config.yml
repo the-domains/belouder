@@ -1,7 +1,7 @@
 name: beloudertv00
 favicon: null
 layout_spectrum: 0.49621
-typography_spectrum: 0.85836
+typography_spectrum: 0.32034
 title: Be Louder
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#b0cfeb'
     - '#548ef2'
   brandStrength: 0.125
-  lightness: 0.0625
+  lightness: 0.3125
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
